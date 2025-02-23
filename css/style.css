@@ -767,9 +767,9 @@ h6 {
 }
 
 .section-heading h3 {
-    font-size: 14px;
+    font-size: 24px;
     font-weight: bold;
-    color: #ccc;
+    color: #302003;
     letter-spacing: 2px;
     padding-bottom: 0;
 }
@@ -1393,7 +1393,7 @@ blockquote {
     padding: 15px 25px;
 }
 
-.client-overlay {
+/* .client-overlay {
     background: rgba(0, 0, 0, 0.8);
     position: absolute;
     top;
@@ -1408,7 +1408,7 @@ blockquote {
     -moz-transition: all 0.3s ease-out;
     -o-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
-}
+} */
 
 #clients a:hover .client-overlay {
     opacity: 1;
